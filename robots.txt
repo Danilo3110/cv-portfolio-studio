@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://danilo3110.github.io/cv-portfolio-studio/sitemap.xml
